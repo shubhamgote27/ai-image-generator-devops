@@ -55,12 +55,7 @@ Before running the project, ensure you have the following installed:
     pip install -r requirements.txt
     ```
 
-3.  **Set Environment Variables:**
-    ```bash
-    export OPENAI_API_KEY="your_api_key_here"
-    ```
-
-4.  **Run the application:**
+3.  **Run the application:**
     ```bash
     python app.py
     # or if using streamlit
