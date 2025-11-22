@@ -134,3 +134,7 @@ ai-image-generator-devops/
 ├── static/             # CSS/JS files
 ├── Jenkinsfile         # CI/CD Pipeline Script
 └── README.md           # Documentation
+```
+
+## 👤 Author
+**Shubham Gote**
